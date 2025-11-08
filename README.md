@@ -1,5 +1,5 @@
 Simple Tag Game to practice Navmesh pathfinding in Unity 6
 
-Assets
--From : Sprout Lands
+Assets<br>
+-From : Sprout Lands<br>
 -By : Cup Nooble
